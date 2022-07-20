@@ -1,0 +1,15 @@
+div {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+div a {
+    background-color: aliceblue;
+    padding: .3rem 1rem;
+    margin: .2rem .15rem;
+    border-radius: 10rem;
+    color : goldenrod;
+    font-weight: 600;
+
+}
